@@ -74,9 +74,8 @@ def plotting(regions_dict,tittle):
     plt.grid(True)
     plt.tight_layout()
     plt.show()
-
+    return plt
 if __name__ == "__main__":
-
     regions_dict_1 = region_agrupation('Economic and Social Rights Performance Score [SD.ESR.PERF.XQ]')
     plotting(regions_dict_1, tittle = 'Economic and Social Rights Performance Score evolution (2014-2018) per Región (2014-2018)')
 
@@ -85,4 +84,4 @@ if __name__ == "__main__":
 
     regions_dict_3 = region_agrupation('CO2 emissions (metric tons per capita) [EN.ATM.CO2E.PC]')
     plotting(regions_dict_3, tittle = 'CO2 emissions (metric tons per capita) evolution (2014-2018) per Region')
-
+  

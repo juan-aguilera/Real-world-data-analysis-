@@ -60,5 +60,12 @@ Analysis: Most countries have high levels of access to electricity, with some ex
 Analysis: A downward trend in CO2 emissions per capita is observed in most regions, suggesting progress in mitigating climate change.
 Results Presentation
 
+## Coverage 
+
+Name                           Stmts   Miss  Cover
+--------------------------------------------------
+data_parsing_and_plotting.py      74     19    74%
+unitest_algorithms.py             34      1    97%
+--------------------------------------------------
 
 For more details about the project and its execution, please refer to the README.md file in the GitHub repository.
