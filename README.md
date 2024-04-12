@@ -54,7 +54,7 @@ Analysis: Significant variation in the performance of economic and social rights
 Analysis: Most countries have high levels of access to electricity, with some exceptions in specific regions.
 
 ### Graph 3: CO2 Emissions (metric tons per capita) by Region
-
+![image](https://github.com/juan-aguilera/Real-world-data-analysis-/assets/158538464/71534513-4c35-4be5-980e-a7a34bf1570c)
 Analysis: A downward trend in CO2 emissions per capita is observed in most regions, suggesting progress in mitigating climate change.
 Results Presentation
 
