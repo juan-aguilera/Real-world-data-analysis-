@@ -48,6 +48,9 @@ North America
 
 Analysis: Significant variation in the performance of economic and social rights is observed among different regions.
 
+
+
+
 ### Graph 2: Access to Electricity (% of Population) by Country
 
 Analysis: Most countries have high levels of access to electricity, with some exceptions in specific regions.
