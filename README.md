@@ -45,6 +45,7 @@ North America
 
 ## **Generated Graphs**
 ### Graph 1: Economic and Social Rights Performance Score by Region 
+![image](https://github.com/juan-aguilera/Real-world-data-analysis-/assets/158538464/089d96f3-c998-49a9-96c0-f4b0300cd376)
 
 Analysis: Significant variation in the performance of economic and social rights is observed among different regions.
 
