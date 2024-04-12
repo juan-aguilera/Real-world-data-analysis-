@@ -72,27 +72,6 @@ and the Middle East. This could indicate that their energy matrices are cleaner 
 
 For more details about the project and its execution, please refer to the README.md file in the GitHub repository.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Name                           Stmts   Miss  Cover
 --------------------------------------------------
 data_parsing_and_plotting.py      74     19    74%
