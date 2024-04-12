@@ -50,7 +50,7 @@ North America
 Analysis: Significant variation in the performance of economic and social rights is observed among different regions.
 
 ### Graph 2: Access to Electricity (% of Population) by Country
-
+![image](https://github.com/juan-aguilera/Real-world-data-analysis-/assets/158538464/b5d2004e-04de-4d00-9631-8b5ffeac6a63)
 Analysis: Most countries have high levels of access to electricity, with some exceptions in specific regions.
 
 ### Graph 3: CO2 Emissions (metric tons per capita) by Region
